@@ -1,0 +1,21 @@
+{
+  "name": "muna-theme",
+  "displayName": "Muna Theme",
+  "description": "Theme created by Muna.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Muna Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Muna Theme-color-theme.json"
+      }
+    ]
+  }
+}
